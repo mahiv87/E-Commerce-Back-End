@@ -14,6 +14,8 @@
 
 ## Description
 
+[Link to video demonstration](https://drive.google.com/file/d/1Z12R05q24yH4fBprzcszVGlWs3w47vOj/view?usp=sharing)
+
 Back End app for e-commerce website that uses the lastest technologies
 
 ## Technologies
@@ -31,7 +33,13 @@ Clone the repository
 
 ## Usage
 
-Install dependencies ```npm i``` Then start app ```npm start```
+Install dependencies ```npm i```
+
+Start MySQL to source ```db/schema.sql```
+
+Seed database ```npm run seed```
+
+Start app ```npm start```
 
 ## License
 
